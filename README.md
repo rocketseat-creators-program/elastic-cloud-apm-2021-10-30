@@ -16,6 +16,6 @@ Nessa aula vamos aprender:
 
 ## Expert
 
-| [<img src="	https://avatars.githubusercontent.com/u/49346926?s…00&u=45b6d1272d804236194b412d741f46d05604bf33&v=4" width="75px;"/>](https://github.com/MarcosVasconcellosJr) |
+| [<img src="https://avatars.githubusercontent.com/u/49346926?s…00&u=45b6d1272d804236194b412d741f46d05604bf33&v=4" width="150px;"/>](https://github.com/MarcosVasconcellosJr) |
 | :-: |
 |[Marcos Vasconcellos](https://github.com/MarcosVasconcellosJr)|
